@@ -1,3 +1,4 @@
+
 import java.math.BigDecimal;
 import java.util.Random;
 import jdk.internal.math.FloatConsts;
@@ -5,7 +6,7 @@ import jdk.internal.math.DoubleConsts;
 import jdk.internal.HotSpotIntrinsicCandidate;
 
 public final class MyMath {
-    private Math() {}
+    private MyMath() {}
 
     public static final double E = 2.7182818284590452354;
 
